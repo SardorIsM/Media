@@ -1,0 +1,26 @@
+.main {
+    width: 400px;
+    margin: 0 auto 30px auto;
+}
+.razmer {
+    padding: 2px 4px;
+}
+.tekst {
+    color: #777;
+    font-size: 11px;
+    width: 316px;
+}
+.knopka {
+    font-size: 19px;
+    font-weight: bold;
+    padding: 7px 20px;
+}
+.back {
+    background: #f0f2f5;
+}
+.face {
+    background: white;
+    border: 1px solid white;
+    border-radius: 3%;
+    margin: 15px;
+}
